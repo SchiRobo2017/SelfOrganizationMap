@@ -14,3 +14,4 @@ numpy, matplotlib
 
 ## Author
 Nakata Koya
+# MacDonaldOptimizationWithGA
